@@ -1,3 +1,6 @@
+
+<img width="695" height="356" alt="image" src="https://github.com/user-attachments/assets/0ce5350a-d432-4df1-9c13-7fe4d9d443c7" />
+
 # Mental-Health-Chatbot
 This is an AI-powered Mental Health Chatbot designed to provide supportive, non-judgmental conversations for users experiencing stress, anxiety, or emotional challenges. 
 A supportive AI-powered chatbot designed to provide mental health resources, coping strategies, and a listening ear for those in need. Overview This chatbot serves as a digital mental health companion, offering:
